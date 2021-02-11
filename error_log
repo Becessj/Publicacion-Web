@@ -1,0 +1,41 @@
+[13-Nov-2019 16:48:09 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:48:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:49:13 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:49:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:51:33 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:51:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:08 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:09 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:09 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:53:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:54:41 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:54:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:54:44 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:54:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:57:18 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 16:57:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 2
+[13-Nov-2019 17:24:08 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:09 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:11 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:24:13 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:25:22 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:26:15 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:26:17 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:26:18 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:26:18 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:27:08 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:27:09 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:27:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:27:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:27:10 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
+[13-Nov-2019 17:30:01 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/munisa6/public_html/publicacion/sincronizar_nuevos.php on line 85
