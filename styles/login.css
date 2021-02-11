@@ -1,0 +1,29 @@
+a {
+    outline: none !important;
+}
+
+.bg-default {
+    background-color: #fff;
+}
+
+.bg-login {
+    background-color: #555;
+}
+
+.login-notes {
+    padding: 20px 0 40px;
+}
+
+.login-notes h2 {
+    margin-bottom: 20px;
+}
+
+.login-notes li {
+    margin-bottom: 15px;
+}
+
+@media (min-width: 992px) {
+    .login-notes {
+        min-height: 100vh;
+    }
+}
