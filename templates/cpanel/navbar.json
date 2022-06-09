@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Preferencias generales",
+        "requireSpecialPermissons" : false,
+        "faIcon": "tasks"
+    },
+    {
+        "title": "Cuentas de usuario",
+        "requireSpecialPermissons": true,
+        "faIcon": "user-o"
+    }
+
+
+]

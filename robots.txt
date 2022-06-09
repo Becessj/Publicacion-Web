@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /config/
+Disallow: /cpanel/
+Disallow: /error/
+Disallow: /libraries/
+Disallow: /scripts/
+Disallow: /storage/
+Disallow: /styles/
+Disallow: /system/
+Disallow: /templates/

@@ -1,0 +1,124 @@
+.loader-wrapper {
+    background-color:  #fff;
+    z-index: 1031;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 0 12.5%;
+}
+
+.navbar-side {
+    float: left;
+}
+
+.navbar-side .navbar-nav>.active>a,
+.navbar-side .navbar-nav>.active>a:focus,
+.navbar-side .navbar-nav>.active>a:hover {
+    background-color: #b7472a;
+}
+
+.side-content {
+    padding: 0 15px;
+    float: left;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.table td > img {
+    display: block;
+    margin: auto;
+    min-width: 64px;
+}
+
+a, button {
+    outline: none !important;
+}
+
+a.icon-link {
+    text-decoration: none;
+}
+
+.colorpicker {
+    display: block;
+    height: 0;
+    padding-top: -webkit-calc(100% - 6px);
+    padding-top:    -moz-calc(100% - 6px);
+    padding-top:         calc(100% - 6px);
+    margin: 15px 0;
+    border: 3px #fff solid;
+}
+
+.colorpicker.checked {
+    border: 3px #000 solid
+}
+
+.version {
+    font-size: x-small;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.partner-logo {
+    width: 180px;
+    min-width: initial;
+}
+
+@media (max-width: 767px) {
+    .navbar-side {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .side-content {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-side {
+        position: fixed;
+        height: 100%;
+        margin: 0;
+        min-height: initial;
+        border-radius: initial;
+        overflow-y: auto;
+    }
+
+    .navbar-side .navbar-header {
+        width: 100%;
+    }
+
+    .navbar-side .navbar-brand {
+        margin-left: 0 !important;
+        width: 100%;
+    }
+
+    .navbar-side > .container-fluid {
+        padding: 0;
+    }
+
+    .navbar-side .navbar-collapse {
+        padding: 0;
+    }
+
+    .navbar-side .navbar-nav > li {
+        width: 100%;
+    }
+
+    .navbar-side {
+        width: 300px;
+    }
+    
+    .side-content {
+        margin-left: 300px;
+        width: -webkit-calc(100% - 300px);
+        width:    -moz-calc(100% - 300px);
+        width:         calc(100% - 300px);
+    }
+}

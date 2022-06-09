@@ -1,0 +1,25 @@
+* {
+    cursor: default;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+         -o-user-select: none;
+            user-select: none;
+}
+
+.wrapper {
+    display: table;
+    min-height: 100vh;
+    margin: auto;
+    text-align: center;
+}
+
+.content {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+.content img {
+    margin: auto;
+}
